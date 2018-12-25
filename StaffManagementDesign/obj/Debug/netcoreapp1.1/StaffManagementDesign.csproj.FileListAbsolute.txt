@@ -1,0 +1,9 @@
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\bin\Debug\netcoreapp1.1\StaffManagementDesign.deps.json
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\bin\Debug\netcoreapp1.1\StaffManagementDesign.dll
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\bin\Debug\netcoreapp1.1\StaffManagementDesign.pdb
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\obj\Debug\netcoreapp1.1\StaffManagementDesign.csprojAssemblyReference.cache
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\obj\Debug\netcoreapp1.1\StaffManagementDesign.csproj.CoreCompileInputs.cache
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\obj\Debug\netcoreapp1.1\StaffManagementDesign.AssemblyInfoInputs.cache
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\obj\Debug\netcoreapp1.1\StaffManagementDesign.AssemblyInfo.cs
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\obj\Debug\netcoreapp1.1\StaffManagementDesign.dll
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagementDesign\obj\Debug\netcoreapp1.1\StaffManagementDesign.pdb

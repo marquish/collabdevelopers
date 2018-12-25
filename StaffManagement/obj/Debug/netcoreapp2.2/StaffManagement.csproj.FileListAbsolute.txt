@@ -1,0 +1,14 @@
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\StaffManagement.deps.json
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\StaffManagement.dll
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\StaffManagement.pdb
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\StaffManagementDesign.dll
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\StaffManagementDesign.pdb
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.csprojAssemblyReference.cache
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.csproj.CoreCompileInputs.cache
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.AssemblyInfoInputs.cache
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.AssemblyInfo.cs
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.csproj.CopyComplete
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.dll
+D:\professional\docker\dotnetcontainers\dotnetcore\StaffManagement\obj\Debug\netcoreapp2.2\StaffManagement.pdb
