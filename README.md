@@ -8,7 +8,7 @@ And could be run with [Docker](https://docs.docker.com/machine/get-started/#run-
 
 # Installation / Running 
 * Pull the image
-* Run 'Docker build -t StaffService .'
+* Run `Docker build -t StaffService .`
 Wait a while while docker downloads image and executes.
 
 # Requirements
@@ -18,7 +18,7 @@ Wait a while while docker downloads image and executes.
 Docker runs a container to apply required dependencies.
 
 # Customization Or Error issues
-Join the community to adopt the concept on your own. [Solve Issues] (https://github.com/marquish/collabdevelopers/issues)
+Join the community to adopt the concept on your own. [Solve Issues](https://github.com/marquish/collabdevelopers/issues)
 Please write or comment if you have any difficulties. Post it [Here](https://github.com/marquish/collabdevelopers/issues/new)
 
 #Known Issues
